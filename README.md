@@ -1,4 +1,5 @@
 # Arduino Smart Car
+## BeXo Robo-Car 🚗 
 
 An Arduino-based smart car controlled via Bluetooth, featuring manual drive, line tracking, body tracking, obstacle avoidance, and voice commands.
 
@@ -12,6 +13,12 @@ An Arduino-based smart car controlled via Bluetooth, featuring manual drive, lin
 - LED indicators for turns
 - Adjustable motor speed
 - Android app for control
+
+## Demo
+
+![Demo Video](demo.gif)
+
+> See the Our Smart Car in action! [Watch Demo Video](https://drive.google.com/file/d/1O149gt_AgX-mamy1_R3PByUx-fu_hJUl/view?usp=drive_link) 
 
 ## Controller App
 
